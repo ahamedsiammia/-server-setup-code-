@@ -1,0 +1,1 @@
+প্রথমে mkdir দিয়ে folder বানাবো পরে cd দিয়ে ওই  folder এর নাম লেখব তাইলে আমি ওই  folder  এর ভিতরে ডুকতে পারবো । তারপর npm init -y  এই কমান্ড দিব । তারপর  npm i mongodb express dotenv cors এই কমান্ড দিব তাহলে আমার  instal  এর কাজ শেষ হবে । 
